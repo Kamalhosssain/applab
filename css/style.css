@@ -1,0 +1,481 @@
+header {
+    border: 2px solid #ebe9e9;
+    padding: 5px 0;
+    background: transparent;
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.logo{}
+.logo_span {
+    color: #FCAE61;
+    font-size: 24px;
+    font-weight: 700;
+}
+.logo a {
+    color: #242F51;
+    font-weight: 700;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.nav{}
+.c_menu{}
+.c_menu ul{}
+.c_menu ul li{}
+.c_menu ul li a {
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+.c_btn {
+    margin-left: 50px;
+    width: 200px;
+    height: 60px;
+    border-radius: 40px;
+    background-color: #2500F9;
+}
+/*banner start*/
+.banner {
+    padding: 50px 0 80px;
+}
+.bg_img {
+    margin-top: 30px;
+}
+.text_banner {
+    right: 0;
+    left: 0;
+    top: 100px;
+    align-items: center;
+    position: absolute;
+  
+}
+
+.b_text{
+    padding-left: 150px;
+}
+.b_mobile {
+    padding-left: 150px;
+    width: 75%;
+}
+
+.b_h1 {
+    margin: 30px 0;
+    font-size: 48px;
+    font-weight: 700;
+    padding-right: 50px;
+    line-height: 60px;
+}
+.b_p {
+    margin: 20px 0 50px;
+    font-size: 20px;
+   
+    padding-right: 80px;
+}
+.arrow {
+    width: 60px !important;
+    padding-right: 15px;
+}
+.ban_btn{
+    margin-right: 20px;
+    background-color: blue;
+    border-radius: 30px;
+    color: white;
+    width: 150px;
+    height: 45px;
+
+}
+.b_btn {
+    background-color: #d3f0f9;
+    border-radius: 30px;
+}
+.cus_btn{}
+.cus_btn a{
+    text-decoration: none;
+}
+/*banner end*/
+
+/*feature start*/
+.feature {
+    margin: 80px 0 100px;
+}
+.f_text{}
+.f_p {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.s_item{
+    align-items: center;
+}
+.f_img {
+    margin-top: 20px;
+}
+/*feature end*/
+/*testimonial start*/
+.testimonial {
+    margin: 80px 0 100px;
+}
+.testi_img{
+    width: 75% !important;
+    margin-left: 150px;
+}
+.text{}
+.testi_h2 {
+    font-size: 36px;
+    font-weight: 700;
+    padding-right: 330px;
+}
+.testi_p {
+    margin: 30px 0;
+    font-size: 18px;
+    padding-right: 215px;
+}
+.test_clock {
+    margin-right: 30px;
+    float: left;
+    overflow: hidden;
+}
+.tes_item{
+    margin-top: 50px;
+}
+.c_wid{
+    width: 90px;
+}
+.testi_h5 {
+    color: red;
+    font-weight: 700;
+}
+.testi_blue {
+    color: blue;
+    font-weight: 700;
+}
+.testi_green {
+    color: green;
+    font-weight: 700;
+}
+.testi_p2 {
+    padding-right: 330px;
+}
+/*testimonial end*/
+/*service start*/
+.service{
+    margin: 80px 0 100px;
+}
+.ser_text{}
+.s_left{
+    float: left;
+}
+.s_right{
+    float: right;
+}
+.s_h1 {
+    padding: 0 100px 0 200px;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 55px;
+}
+.s_p {
+    padding: 70px 190px 0 60px;
+}
+.ser_item {
+    margin-left: 120px;
+    margin-top: 80px;
+}
+.ser_img {
+    margin-bottom: 25px;
+}
+.ser_red {
+    font-weight: 700;
+    color: red;
+}
+.ser_blue {
+    font-weight: 700;
+    color: blue;
+}
+.ser_green {
+    font-weight: 700;
+    color: green;
+}
+.ser_p {
+    padding-right: 40px;
+}
+/*service end*/
+/*secton start*/
+.design{
+    margin: 80px 0 100px;
+}
+.sec_row {
+    align-items: center;
+}
+.sec_img {
+    width: 60%;
+    margin-left: 120px;
+}
+.sec_text{}
+.d_h1 {
+    margin-right: 290px;
+    font-weight: 700;
+}
+.d_p {
+    padding-right: 191px;
+    margin: 35px 0;
+}
+/*section end*/
+/*about start*/
+.about{
+    margin: 80px 0 100px;
+}
+.about_text{}
+.abt_h2 {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    padding: 0 100px;
+}
+.abt_p {
+    padding: 0 60px;
+}
+.abt_item {
+    text-align: center;
+    margin: 80px 0 30px;
+}
+.abt_img{}
+.abt_h5 {
+    font-weight: 700;
+}
+.abt_p2 {
+    padding: 0 50px;
+}
+
+/*about end*/
+
+/*ultimate feature start*/
+.ult_feature{
+    margin: 80px 0 100px;
+}
+.ult_row{
+    align-items: center;
+}
+.item_left{
+    margin-left: 80px;
+}
+.ult_text{}
+.ult_h2 {
+    font-weight: 700;
+    padding-right: 320px;
+}
+.ult_p {
+    padding-right: 150px;
+    margin: 30px 0;
+}
+.single_item {
+    margin-bottom: 30px;
+}
+.single_img {
+    margin: 20px 0 30px;
+}
+.sing_h5 {
+    font-weight: 700;
+}
+.sing_p {
+    padding-right: 45px;
+}
+.ult_mobile_img{}
+.ult_btn{}
+/*ultimate feature end*/
+/*pricing start*/
+.pricing {
+    margin: 80px 0 100px;
+}
+.pricing_tittle {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.tittle_h2 {
+    font-weight: 700;
+    padding: 0 180px 0;
+}
+.tittle_p {
+    padding: 0 140px;
+}
+
+label {
+    font-weight: 500 !important;
+    margin-bottom: 0.5rem;
+}
+.single_price{
+    margin: 35px;
+    padding: 0px 0 50px;
+    box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.175) ;
+    border-radius: 10px;
+}
+.single_price2 {
+    margin: 20px 35px;
+    padding: 10px 0 55px;
+    box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.175);
+    border-radius: 10px;
+}
+.price_top {
+    padding: 80px 20px 50px;
+}
+.price_bottom{
+    text-align: center;
+}
+.span_h{}
+.h5{
+    font-weight: 700;
+}
+.price_h {
+    align-items: center;
+}
+.link{
+    margin-left: 100px;
+}
+/*pricing end*/
+/*testimonial2 start*/
+.testimonial2{
+    margin: 80px 0 100px;
+}
+.testi2_img{}
+.testi2_img img{}
+.testi2_text{}
+.testi2_h {
+    padding-right: 360px;
+    font-weight: 700;
+}
+.testi2_p {
+    margin: 30px 0;
+    padding-right: 230px;
+}
+.testi2_h3 {
+    margin: 30px 0;
+    font-weight: 700;
+}
+.testi2_p2{}
+
+
+/*testimonial2 end*/
+/*FAQ start*/
+.FAQ{
+    margin: 80px 0 120px;
+}
+.FAQ_tittle{}
+.FAQ_h {
+    font-weight: 700;
+}
+.accord_tittle{}
+.FAQ_p {
+    padding: 0 140px;
+}
+.accordion-button {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.carosel_item{
+    background-color: transparent;
+}
+.slider_img{
+    overflow: hidden;
+    float: left;
+}
+.slider_img1{
+    overflow: hidden;
+    float: left;
+}
+.slider_img2{
+    overflow: hidden;
+    float: left;
+}
+.slider_text {
+    overflow: hidden;
+    margin-top: 20px;
+    float: right;
+    margin-right: 65px;
+}
+.slider_text2 {
+    overflow: hidden;
+    margin-top: 20px;
+    float: right;
+    margin-right: 80px;
+}
+.slider_text3 {
+    overflow: hidden;
+    margin-top: 20px;
+    float: right;
+    margin-right: 100px;
+}
+.h5_cara{
+    margin-top: 20px;
+}
+.previous_btn{
+    position: relative;
+    left: 594px;
+    background-color: #848080;
+    
+}
+.next_btn{
+    background-color: #848080; 
+}
+/*FAQ end*/
+/*cantact us start*/
+.contact_us{
+    padding: 50px 0;
+}
+.contact_text{}
+.contact_h {
+    padding-right: 200px;
+    font-size: 42px;
+    font-weight: 700;
+}
+.contact_p {
+    margin: 30px 0;
+    padding-right: 200px;
+}
+.google_play{}
+.app_store {
+    margin-left: 30px;
+}
+/*contact us end*/
+/*footer strat*/
+footer{
+    background-color: #242F51;
+    padding:  100px 0 120px;
+}
+.f_h {
+    color: #FCAE61;
+    margin: 30px 0 50px;
+}
+.f_span{
+    color: white;
+}
+.f_menu a {
+
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+}
+.f_menu a {
+    text-decoration: none;
+    color: white;
+}
+.social_link {
+    margin: 30px 0 50px;
+}
+.social_links {
+    margin-left: 20px;
+}
+.social_link a {
+    color: #c9c0c0;
+}
+.f_link1 {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
